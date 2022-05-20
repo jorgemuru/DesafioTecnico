@@ -1,2 +1,2 @@
 # DesafioTecnico
-Desafio Tecnico par Sofka University
+Desafio Tecnico para Sofka University
